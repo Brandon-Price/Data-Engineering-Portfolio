@@ -1,2 +1,2 @@
-# data-engineering-portfolio
+# Data-Engineering-Portfolio
 Data Engineering Projects
